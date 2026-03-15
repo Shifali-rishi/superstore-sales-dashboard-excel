@@ -8,6 +8,17 @@ This project presents an interactive Excel dashboard analyzing sales performance
 
 ![Dashboard Preview](Dashboard.png)
 
+## Key Insights
+
+• Technology is the leading category contributing the highest share of sales (~41%).
+
+• The East region generates the strongest revenue performance among all regions.
+
+• Standard Class shipping dominates order fulfillment, accounting for nearly half of total shipments.
+
+• Sales show higher growth toward the end of the year based on the monthly sales trend.
+
+
 ## Key Metrics
 
 * Total Sales: $168,451.85
